@@ -1,0 +1,12 @@
+//------------------------------------------------------------------
+// Addin-Application header control file, created with the CASIO SDK
+//------------------------------------------------------------------
+[OUTPUT]     : "BCEFX.G1A"
+[BINDATA]    : "FXADDINror.bin"
+[DISPNAME]   : "BCEfx"
+[APPNAME]    : "@BCEFX"
+[VERSION]    : "01.00.0000"
+[APL_ICON]   : "MainIcon.bmp"
+[MODULE_NUM] : 0
+[MOD1_TITLE] : "BCEfx"
+[MOD1_ICON]  : "eActivityIcon.bmp"
